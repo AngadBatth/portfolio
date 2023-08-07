@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed1339c8.css",
+    "main.js": "/static/js/main.13d504da.js",
+    "static/media/cover-image.jpg": "/static/media/cover-image.40df59c6dc85141d38e1.jpg",
+    "static/media/memory-game.jpg": "/static/media/memory-game.e4475131888c3860ff6c.jpg",
+    "static/media/password-gen.jpg": "/static/media/password-gen.5345f1b3d9cd27d06200.jpg",
+    "static/media/profilePic.jpg": "/static/media/profilePic.de0502e5cf7f6c046cc5.jpg",
+    "static/media/note-taker.jpg": "/static/media/note-taker.564793599142b3c61bcb.jpg",
+    "index.html": "/index.html",
+    "main.ed1339c8.css.map": "/static/css/main.ed1339c8.css.map",
+    "main.13d504da.js.map": "/static/js/main.13d504da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed1339c8.css",
+    "static/js/main.13d504da.js"
+  ]
+}
