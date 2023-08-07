@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+  "description": "A Portfolio web application created using React",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -13,6 +14,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -35,5 +38,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngadBatth/portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AngadBatth/portfolio/issues"
+  },
+  "homepage": "https://AngadBatth.github.io/portfolio",
+    "keywords": [],
+    "author": "AngadBatth",
+    "license": "MIT"
 }
