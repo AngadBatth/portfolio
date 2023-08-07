@@ -11,7 +11,9 @@ function About() {
         Hello! My name is Angad Batth and I am a Fullstack Developer who is currently enrolled in a coding bootcamp hosted by the University of Toronto!
         </p>
         <p>
-        Some background about me is that I attended Seneca College for Computer Science in 2017 and soon after moved to the great state of Texas! During my time in Texas I was able to work with a Tech Contracting company that gave me the opportunity to work with other companies such as Raytheon, Boeing and Samsung. Working there sparked a hidden passion I had for coding and so I decided to spend my time learning about Full-Stack Development.
+        Some background about me is that I attended Seneca College for Computer Science in 2017 and soon after moved to the great state of Texas! 
+        During my time in Texas I was able to work with a Tech Contracting company that gave me the opportunity to work with other companies such as 
+        Raytheon, Boeing and Samsung. Working there sparked a hidden passion I had for coding and so I decided to spend my time learning about Full-Stack Development.
         </p>
       </div>
     </section>
