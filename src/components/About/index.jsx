@@ -8,10 +8,10 @@ function About() {
         <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-        Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
+        Hello! My name is Angad Batth and I am a Fullstack Developer who is currently enrolled in a coding bootcamp hosted by the University of Toronto!
         </p>
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+        Some background about me is that I attended Seneca College for Computer Science in 2017 and soon after moved to the great state of Texas! During my time in Texas I was able to work with a Tech Contracting company that gave me the opportunity to work with other companies such as Raytheon, Boeing and Samsung. Working there sparked a hidden passion I had for coding and so I decided to spend my time learning about Full-Stack Development.
         </p>
       </div>
     </section>
