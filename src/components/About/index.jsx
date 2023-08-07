@@ -1,11 +1,13 @@
 import React from 'react';
 
+import profilePic from "../../assets/images/profilePic.jpg";
+
 function About() {
   return (
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-        <img src={avatar} alt="picture of my cat" style={{ width: "130px", height: "130px" }}></img>
+        <img src={profilePic} alt="picture of my cat" style={{ width: "130px", height: "130px" }}></img>
         </div>
         <p>
         Hello! My name is Angad Batth and I am a Fullstack Developer who is currently enrolled in a coding bootcamp hosted by the University of Toronto!
