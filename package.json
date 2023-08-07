@@ -7,7 +7,6 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -46,8 +45,11 @@
   "bugs": {
     "url": "https://github.com/AngadBatth/portfolio/issues"
   },
-  "homepage": "https://AngadBatth.github.io/portfolio",
-    "keywords": [],
-    "author": "AngadBatth",
-    "license": "MIT"
+  "homepage": "https://angadbatth.github.io",
+  "keywords": [],
+  "author": "AngadBatth",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
