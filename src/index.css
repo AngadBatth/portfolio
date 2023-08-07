@@ -8,8 +8,8 @@ main {
   --secondary: #31343D;
   --tertiary: #b12704;
   --light: #fafafa;
-  --dark: #3b7ead;
-  --darker: #081930;
+  --dark: #1e577f;
+  --darker: #071328;
   --alpha: rgba(255,255,255,.7);
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -186,7 +186,7 @@ header img {
 
 nav {
   position: relative;
-  font-family: 'Aladin', cursive;
+  font-family: 'Arial', cursive;
   font-size: 2.5rem;
   margin: 30px 20px;
 }
@@ -323,6 +323,7 @@ textarea {
 
 .project-text {
     color: var(--secondary);
+    font-size: medium;
     position: absolute;
     top: 0px;
     bottom: 0px;
@@ -360,6 +361,11 @@ textarea {
   cursor: default;
   text-shadow: 3px 3px 15px rgba(255,255,255, .5);
 }
+
+.profile-img {
+  justify-content: center;
+}
+
 @media only screen and (max-width: 1300px) {
   nav {
     position: static;
