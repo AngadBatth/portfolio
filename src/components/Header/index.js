@@ -5,8 +5,8 @@ function Header(props) {
 
   return (
     <header className="flex-row space-between px-1">
-      <h1>Angad Batth</h1>
-      <img src={coverImage} alt="wooden background"></img>
+      <h1>Andy Batth</h1>
+      <img src={coverImage} alt="purple background image"></img>
       {props.children}
     </header>
   );
