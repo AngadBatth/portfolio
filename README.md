@@ -1,5 +1,4 @@
-# Text-Editor
-
+# React-Portfolio
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
@@ -13,6 +12,8 @@
 ## Description
 This is a Portfolio created using React and gh-pages for deployment! React was used to create a web application with multiple pages for the user to interact with, barring the need to refresh the page.
 <br />
+
+[Link to Deployed Application](https://angadbatth.github.io/portfolio/) <br />
 
 ## Installation
 Clone the repository and ensure you have Node.js installed.<br /><br />
