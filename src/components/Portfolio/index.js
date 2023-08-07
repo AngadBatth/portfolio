@@ -14,7 +14,7 @@ function Portfolio() {
     {
       name: 'book-wise',
       description: 'Node, Express, MySQL & bcrypt',
-      link: "https://mighty-garden-26521.herokuapp.com/",
+      link: "https://github.com/Saloni0412/BookWise",
       repo: "https://github.com/Saloni0412/BookWise"
     },
     {
